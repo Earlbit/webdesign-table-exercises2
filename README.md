@@ -4,7 +4,7 @@
     <title>My Table</title>
 </head>
 <body>
-<table border="2">
+<table border="1">
     <thead>
     <tr>
         <th>Kolumna 1</th>
